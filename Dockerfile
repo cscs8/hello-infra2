@@ -1,5 +1,5 @@
 FROM ubuntu:trusty
 
-MAINTAINER cs8
+LABEL maintainer="cs8"
 
 CMD ["/bin/bash"]
